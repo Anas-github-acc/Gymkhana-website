@@ -60,22 +60,8 @@ export default function MenubarDemo() {
                     <MenubarSub>
                       <MenubarSubTrigger>Clubs</MenubarSubTrigger>
                       <MenubarSubContent className="bg-primary border-none">
-                        <MenubarSub>
-                          <MenubarSubTrigger>Loda</MenubarSubTrigger>
-                          <MenubarSubContent className="bg-primary border-none">
-                            <MenubarItem>Members</MenubarItem>
-                            <MenubarItem>Events</MenubarItem>
-                            <MenubarItem>Gallery</MenubarItem>
-                          </MenubarSubContent>
-                        </MenubarSub>
-                        <MenubarSub>
-                          <MenubarSubTrigger>Lassun</MenubarSubTrigger>
-                          <MenubarSubContent className="bg-primary border-none">
-                            <MenubarItem>Members</MenubarItem>
-                            <MenubarItem>Events</MenubarItem>
-                            <MenubarItem>Gallery</MenubarItem>
-                          </MenubarSubContent>
-                        </MenubarSub>
+                        
+                 
                       </MenubarSubContent>
                     </MenubarSub>
                   </MenubarSubContent>
